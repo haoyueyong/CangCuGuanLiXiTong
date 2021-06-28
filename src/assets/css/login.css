@@ -1,0 +1,109 @@
+.head {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(0, 128, 201);
+    padding-left: 150px;
+  }
+  .head img {
+    height: 100%;
+    margin-left: 80px;
+  }
+  .main {
+    /* width: 100%; */
+    height: 600px;
+    background-image: linear-gradient(to right, rgb(177, 179, 190), white);
+  }
+  .bg-purple {
+    margin-top: 35px;
+    padding: 80px;
+  }
+  .ziti {
+    font-size: 23px;
+    letter-spacing: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  .ziti2 {
+    width: 100%;
+    height: 98px;
+    font-size: 14px;
+    font-family: Microsoft YaHei;
+    font-weight: 400;
+    line-height: 26px;
+    color: #333854;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    /* white-space: nowrap; */
+  }
+  .bg-purple-light {
+    /* padding: 80px; */
+    margin-top: 80px;
+    /* height: 900px; */
+    z-index: 999;
+  }
+  .bg-purple-light h3 {
+    margin-left: 308px;
+  }
+  .check{
+    margin-left: 765px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .code{
+    margin-left: 740px;
+    margin-top: -38px;
+  }
+  .verification input{
+    margin-left: 600px;
+    width: 136px;
+    border: 0px;
+    height: 35px;
+    border-radius: 4px;
+    outline:none;
+  }
+  .anniu {
+    position: relative;
+    width: 250px;
+  }
+  .bg-purple-light .el-form {
+    margin-left: -200px;
+    padding: 50px;
+    position: relative;
+    /* left: 650px; */
+    right: 150px;
+    width: 850px;
+    margin-top: -25px;
+  }
+  .foot {
+    /* width: 100%; */
+    /* height: 400px; */
+    height: 100%;
+    background-color: rgb(0, 128, 201);
+  }
+  .foot div {
+    float: left;
+    margin-left: 30px;
+  }
+  .foot img {
+    height: 100%;
+    margin-left: 80px;
+  }
+  /* 对话框 */
+  .dialog {
+    display: flex;
+    justify-content: space-between;
+  }
+  .bot ul li {
+    float: left;
+    color: cornsilk;
+    font-size: 12px;
+    margin-left: 30px;
+  }
+  .bot ul {
+    margin-left: 30%;
+  }
+  .bot {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+  }
